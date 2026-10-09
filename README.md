@@ -1,5 +1,10 @@
 # Deep Research Agent (Deep Agents + Sandbox)
 
+## Thông tin sinh viên
+- **Họ và tên:** Trần Anh Đăng
+- **Mã sinh viên:** 2A202602992
+- **Lớp / Khóa:** K4 - Day 23
+
 Lab dựng một **hệ thống deep research đa tác tử**: người dùng chỉ cần nhập một chủ đề (ví dụ `survey about world model`), hệ thống tự lập kế hoạch, giao việc cho nhiều subagent, tìm tài liệu trên arXiv, Hugging Face và web, rồi viết một **báo cáo có trích dẫn**.
 
 Hình thức: **bài thực hành cá nhân**. Ngôn ngữ lập trình: Python 3.11 trở lên.
@@ -98,6 +103,17 @@ Kết quả nằm ở `reports/survey-about-world-model.md` cùng `.sources.json
 - Commit mã nguồn và toàn bộ `reports/`, đẩy lên một **public repo** GitHub và nộp link.
 - Kiểm tra trước khi nộp: chạy **`python self_check.py`** (không tốn token): nó kiểm tra đủ 5 báo cáo, `meta.json`, trích dẫn bằng `check_citations.py` của bạn, và không có `.env`/khóa nào trong git.
 - Cách chấm: xem [`RUBRIC.md`](RUBRIC.md).
+
+### Cách đọc thư mục `reports/`
+Với mỗi chủ đề `<slug>` trong 5 chủ đề nghiên cứu, thư mục `reports/` bao gồm 3 tệp tương ứng:
+1. **`<slug>.md`**: Báo cáo tổng hợp chuyên sâu bằng tiếng Anh theo chuẩn `REPORT_TEMPLATE.md`, bao gồm:
+   - `## TL;DR`: Các phát hiện chính kèm trích dẫn `[n]`.
+   - `## Background`: Bối cảnh và các nghiên cứu nền tảng.
+   - Các theme chuyên môn (`## Theme 1`, `## Theme 2`...): Phân tích so sánh đa chiều giữa các công trình.
+   - `## Trends and open problems`: Xu hướng 2 năm gần nhất và các bài toán mở.
+   - `## References`: Danh sách trích dẫn đầy đủ sinh tự động bởi `finalize_citations.py` trong sandbox.
+2. **`<slug>.sources.json`**: Danh sách toàn bộ các nguồn dữ liệu được trích dẫn (arXiv, Hugging Face, Web) chứa `id`, `title`, `url`, `date`, `source`.
+3. **`<slug>.meta.json`**: Siêu dữ liệu của phiên chạy gồm tổng thời gian, số token lead, số lượng subagent calls (`>= 3`) và danh sách các họ nguồn đã sử dụng (`source_families` gồm tối thiểu 3 họ khác nhau).
 
 ## 7. Thời gian, chi phí và an toàn
 

@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "2609.37864",
+    "url": "https://arxiv.org/abs/2609.37864",
+    "title": "AgentBug-Smith: Automatically Reproducing Real-World Harness Bugs in Agentic Systems",
+    "date": "2026-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2608.23035",
+    "url": "https://arxiv.org/abs/2608.23035",
+    "title": "MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks",
+    "date": "2026-08-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2607.05775",
+    "url": "https://arxiv.org/abs/2607.05775",
+    "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
+    "date": "2026-07-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2601.02577",
+    "url": "https://huggingface.co/papers/2601.02577",
+    "title": "Orchestral AI: A Framework for Agent Orchestration",
+    "date": "2026-01-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2601.06328",
+    "url": "https://huggingface.co/papers/2601.06328",
+    "title": "ToolGym: an Open-world Tool-using Environment for Scalable Agent Testing and Data Curation",
+    "date": "2026-01-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "10.1007/s43681-025-00847-w",
+    "url": "https://link.springer.com/article/10.1007/s43681-025-00847-w",
+    "title": "Ethical perspectives on deployment of large language model agents in biomedicine: a survey",
+    "date": "2025-12-04",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "PMC12460403",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12460403/",
+    "title": "A systematic review of ethical considerations of large language models in healthcare and medicine",
+    "date": "2025-09-11",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2403.14473",
+    "url": "https://huggingface.co/papers/2403.14473",
+    "title": "The Ethics of ChatGPT in Medicine and Healthcare: A Systematic Review on Large Language Models (LLMs)",
+    "date": "2024-03-21",
+    "source": "hf-search"
+  }
+]

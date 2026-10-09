@@ -1,0 +1,74 @@
+[
+  {
+    "n": 1,
+    "id": "1803.10122",
+    "url": "https://huggingface.co/papers/1803.10122",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2309.09777",
+    "url": "https://huggingface.co/papers/2309.09777",
+    "title": "DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving",
+    "date": "2023-09-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2606.00133",
+    "url": "https://arxiv.science/abs/2606.00133",
+    "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+    "date": "2026-05-28",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2610.10850",
+    "url": "https://arxiv.org/abs/2610.10850",
+    "title": "Similar Predictive Fit but Different Latent Dynamics: Characterizing Learned Dynamical Structure in Personalized Models of Brain Disorders",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2610.09043",
+    "url": "https://arxiv.org/abs/2610.09043",
+    "title": "Careful Judge: Safe and Efficient Human-AI Collaborative Decision Making",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "N/A",
+    "url": "https://arxiv.org/html/2411.08794v2",
+    "title": "LLM-Based World Models Can Make Decisions Solely, But Rigorous Evaluations are Needed",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2604.15333",
+    "url": "https://arxiv.org/abs/2604.15333",
+    "title": "Technically Love: The Evolution of Human-AI Romance Discourse on Reddit",
+    "date": "2026-03-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2411.07690",
+    "url": "https://arxiv.org/pdf/2411.07690",
+    "title": "World Models: The Safety Perspective",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "N/A",
+    "url": "https://hai.stanford.edu/assets/files/hai-issue-brief-the-world-model-and-spatial-intelligence-era.pdf",
+    "title": "The World Model and Spatial Intelligence Era",
+    "date": "N/A",
+    "source": "web"
+  }
+]

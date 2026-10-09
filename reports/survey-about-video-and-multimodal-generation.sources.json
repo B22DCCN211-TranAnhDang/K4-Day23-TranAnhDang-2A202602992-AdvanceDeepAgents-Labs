@@ -1,0 +1,26 @@
+[
+  {
+    "n": 1,
+    "id": "2609.10714",
+    "url": "https://arxiv.org/abs/2609.10714",
+    "title": "From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity",
+    "date": "2026-09-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2511.18780",
+    "url": "https://huggingface.co/papers/2511.18780",
+    "title": "ConceptGuard: Proactive Safety in Text-and-Image-to-Video Generation through Multimodal Risk Detection",
+    "date": "2025-11-24",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "VBench",
+    "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "N/A",
+    "source": "web"
+  }
+]

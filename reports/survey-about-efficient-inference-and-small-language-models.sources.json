@@ -1,0 +1,58 @@
+[
+  {
+    "n": 1,
+    "id": "2610.09941",
+    "url": "https://arxiv.org/abs/2610.09941",
+    "title": "Purifying Backdoored Large Vision-Language Models by Removing Hijacked Directions",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2502.02737",
+    "url": "https://huggingface.co/papers/2502.02737",
+    "title": "SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model",
+    "date": "2025-02-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2305.07804",
+    "url": "https://huggingface.co/papers/2305.07804",
+    "title": "Dr. LLaMA: Improving Small Language Models in Domain-Specific QA via Generative Data Augmentation",
+    "date": "2023-05-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2025-02-26",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "N/A",
+    "url": "https://aclanthology.org/2025.ranlp-1.93.pdf",
+    "title": "A Survey on Small Language Models",
+    "date": "2025-09-08",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2610.09186",
+    "url": "https://arxiv.org/abs/2610.09186",
+    "title": "The Dichotomy Between Pattern Recognition and Step-by-Step Reasoning",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2610.08048",
+    "url": "https://arxiv.org/abs/2610.08048",
+    "title": "DAEDALUS: Bootstrapping Agent Memory from Self-Generated Tasks",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  }
+]

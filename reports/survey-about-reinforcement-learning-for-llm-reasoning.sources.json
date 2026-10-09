@@ -1,0 +1,58 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12061",
+    "url": "https://arxiv.org/abs/2610.12061",
+    "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.11502",
+    "url": "https://arxiv.org/abs/2610.11502",
+    "title": "Fed-GRPO: Reward-Signal-Driven Federated Group Relative Policy Optimization",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2610.06647",
+    "url": "https://arxiv.org/abs/2610.06647",
+    "title": "LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2609.36816",
+    "url": "https://arxiv.org/abs/2609.36816",
+    "title": "Towards Better Training Signal: Advantage Clipped Policy Optimization",
+    "date": "2026-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2402.05808",
+    "url": "https://huggingface.co/papers/2402.05808",
+    "title": "Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning",
+    "date": "2024-02-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2610.11373",
+    "url": "https://arxiv.org/abs/2610.11373",
+    "title": "From a Prompt to Repertoires: Evolving Functional REpertoires Enable LLM Continual Learning",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "N/A",
+    "url": "https://dl.acm.org/doi/full/10.1145/3834858",
+    "title": "A Technical Survey of Reinforcement Learning Techniques for Large Language Models",
+    "date": "2026-09-29",
+    "source": "web"
+  }
+]
